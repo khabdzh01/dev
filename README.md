@@ -1,5 +1,7 @@
 # What is this?
 
+![mycat](https://static01.nyt.com/images/2023/12/12/climate/12cli-cats/12cli-cats-mediumSquareAt3X.jpg)
+
 The github.dev web-based editor is a lightweight editing experience that runs entirely in your browser. You can navigate files and source code repositories from GitHub, and make and commit code changes.
 
 There are two ways to go directly to a VS Code environment in your browser and start coding:
